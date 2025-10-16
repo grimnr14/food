@@ -1,1 +1,10 @@
 "geoid","geolevel","year","level","value"
+"10001","county",2023,"food_score",98.8
+"10003","county",2023,"food_score",114.02
+"10005","county",2023,"food_score",103
+"10001","county",2023,"food_rnk",39.944
+"10003","county",2023,"food_rnk",75.4981
+"10005","county",2023,"food_rnk",48.9103
+"10001","county",2023,"food_state_rnk",0
+"10003","county",2023,"food_state_rnk",100
+"10005","county",2023,"food_state_rnk",50

@@ -1,1 +1,16 @@
 "geoid","geolevel","year","level","value"
+"44001","county",2023,"food_score",120.3
+"44003","county",2023,"food_score",112.52
+"44005","county",2023,"food_score",116.56
+"44007","county",2023,"food_score",101.74
+"44009","county",2023,"food_score",117.21
+"44001","county",2023,"food_rnk",88.9166
+"44003","county",2023,"food_rnk",71.9489
+"44005","county",2023,"food_rnk",80.9776
+"44007","county",2023,"food_rnk",46.6065
+"44009","county",2023,"food_rnk",82.5342
+"44001","county",2023,"food_state_rnk",100
+"44003","county",2023,"food_state_rnk",25
+"44005","county",2023,"food_state_rnk",50
+"44007","county",2023,"food_state_rnk",0
+"44009","county",2023,"food_state_rnk",75
